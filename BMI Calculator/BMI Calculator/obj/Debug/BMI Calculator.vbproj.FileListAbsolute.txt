@@ -1,0 +1,13 @@
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbprojAssemblyReference.cache
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.frmBMICalculator.resources
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.SplashBMI.resources
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.cache
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+E:\Visual Basic\Chapter 7\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
