@@ -4,6 +4,7 @@
 '   Date:           4/25/2023
 Public Class frmBMICalculator
     Private Sub frmBMICalculator_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        '   Display splash screen 1 second (edited in GitHub)
         Threading.Thread.Sleep(1000)
     End Sub
 
