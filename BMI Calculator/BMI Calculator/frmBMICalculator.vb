@@ -21,7 +21,7 @@ Public Class frmBMICalculator
                 lblWeight.Text = "Weight (kg)"
         End Select
 
-        '   Enable text boxes and buttons
+        '   Enables your mother -Mikey 
         txtHeight.Enabled = True
         txtWeight.Enabled = True
         btnCalculate.Enabled = True
